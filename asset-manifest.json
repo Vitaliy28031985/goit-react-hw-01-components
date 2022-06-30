@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vitaliy28031985/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
+    "main.js": "/Vitaliy28031985/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "index.html": "/Vitaliy28031985/goit-react-hw-01-components.git/index.html",
+    "main.7acaea2f.css.map": "/Vitaliy28031985/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Vitaliy28031985/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
